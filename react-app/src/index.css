@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color: #5a5a5a;
+}
+.flex-item{
+    display: flex;
+    align-items: center;
+}
+img{
+    /* width: 100%; */
+    cursor: pointer;
+}
