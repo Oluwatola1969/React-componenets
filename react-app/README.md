@@ -1,8 +1,15 @@
-# React + Vite
+# React Components
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React components are the building blocks of React applications. Each component represents a part of the UI, which can be reused, combined, and nested to build complex interfaces. React components come in two main types: functional components and class components. 
 
-Currently, two official plugins are available:
+## My Project
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+I have built a youtube-clone using a functional components - javascript functions that return React elements.
+
+### Core features of React components used in the project
+
+- Functional Components
+- JSX (Javascript XML)
+- Props
+- State
+
